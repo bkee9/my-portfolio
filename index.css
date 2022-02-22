@@ -1,3 +1,6 @@
+body {background-color: #03071e;
+
+}
 .topnav {
     overflow: hidden;
     background-color: #333;
@@ -37,4 +40,21 @@
     justify-content: center;
     float:center;
     
+  }
+  /* .paragraph{
+    border-bottom-right-radius: 10%;
+    border-block-color: black;
+  } */
+  /* .education{
+    background-color:rgb(95, 89, 89);
+    float: left;
+
+  }
+  .updates{
+    align-items: center;
+  } */
+  .dev{
+    font-size: 30px;
+    font-weight: 600;
+
   }
