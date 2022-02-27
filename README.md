@@ -20,7 +20,7 @@ This is a portfolio containing the About section,Projects section,and Contact se
 
 ### Live Link
 
-<a>https://</a>
+<a>https://nancymwende.github.io/my-portfolio/</a>
 
 ## Known Bugs
 
